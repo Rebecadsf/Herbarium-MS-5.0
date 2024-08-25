@@ -43,7 +43,7 @@ def main():
             file_name="Exemplo_U_guatterioides.xlsx"
         )
         st.download_button(
-            label="Baixar Exemplo 2",
+            label="Baixar Exemplyo 2",
             data=open("Exemplo_U_rufescens.xlsx", "rb"),
             file_name="Exemplo_U_rufescens.xlsx"
         )
