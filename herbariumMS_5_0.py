@@ -4,7 +4,7 @@ import streamlit as st
 import os
 
 def main():
-    st.title("Herbarium MS 5.1")
+    st.title("Herbarium MS 5.11")
     
         # Adicionar uma imagem
     st.image("logo.png", caption="Uma poderosa ferramenta na identificação de amostras desconhecidas", use_column_width=True)
