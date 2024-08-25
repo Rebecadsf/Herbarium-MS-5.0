@@ -38,7 +38,7 @@ def main():
     with col1:
         st.subheader(" ")
         st.download_button(
-            label="Baixar Exemplo 1",
+            label="Baixar Exemplo 10",
             data=open("Exemplo_U_guatterioides.xlsx", "rb"),
             file_name="Exemplo_U_guatterioides.xlsx"
         )
